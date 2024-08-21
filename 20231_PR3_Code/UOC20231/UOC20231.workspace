@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOC20231" Database="" Version="10000">
+  <Project Name="UOC20231" Path="UOC20231.project" Active="Yes"/>
+  <Project Name="UOCHealthCenter" Path="UOCHealthCenter/UOCHealthCenter.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="UOC20231" ConfigName="Debug"/>
+      <Project Name="UOCHealthCenters" ConfigName="Debug"/>
+      <Project Name="UOCHealthCenter" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="UOC20231" ConfigName="Release"/>
+      <Project Name="UOCHealthCenter" ConfigName="Release"/>
+      <Project Name="UOCHealthCenter" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
